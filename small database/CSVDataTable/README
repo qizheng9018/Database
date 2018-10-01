@@ -1,1 +1,3 @@
-csvtable
+csvtable is the table to store data, queryprocessor realized the contrains and the process of input.
+
+test.py has the test case for this small table.
