@@ -36,7 +36,7 @@ class RDBTable:
         # Your code goes here
         self.cnx = pymysql.connect(host='localhost',
                                    user='root',
-                                   password='gfiato',
+                                   password='******',
                                    db='Lahman2017',
                                    charset='utf8mb4',
                                    cursorclass=pymysql.cursors.DictCursor)
